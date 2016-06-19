@@ -6,3 +6,19 @@ Implementations of various maze algorithms in pure ES2015 flavoured javascript.
 
 `binary-tree.js`
 
+example (5x5):
+```
++---+---+---+---+---+
+|                   |
++   +---+---+---+   +
+|   |               |
++   +   +   +---+   +
+|   |   |   |       |
++   +   +   +---+   +
+|   |   |   |       |
++---+   +   +   +   +
+|       |   |   |   |
++---+---+---+---+---+
+```
+
+
