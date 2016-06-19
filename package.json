@@ -1,0 +1,19 @@
+{
+  "name": "js-mazes",
+  "version": "1.0.0",
+  "description": "Various maze algos implemented in pure js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dazld/js-mazes.git"
+  },
+  "author": "Dan Peddle <dan@flarework.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dazld/js-mazes/issues"
+  },
+  "homepage": "https://github.com/dazld/js-mazes#readme"
+}
